@@ -1,0 +1,16 @@
+{
+  "name": "framer-boilerplate-project",
+  "version": "1.0.0-alpha",
+  "description": "Boilerplate to expand the usage of Framer Studio projects by allowing users without a license to work on the project, automating Sketch exports with gulp, and more features to come.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Fleming",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.12.4",
+    "gulp": "^3.9.1",
+    "gulp-sketch": "^1.0.3"
+  }
+}
