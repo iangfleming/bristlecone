@@ -11,6 +11,7 @@ REQUIRES: [Framer Studio](http://framerjs.com/), [Sketch](http://www.sketchapp.c
 
 1. Have a Framer project (e.g. myProject.framer).
 2. [Download the project](https://github.com/iangfleming/bristlecone/archive/master.zip) and copy `gulpfile.js`, `package.json`, and the `/src` folder into your Framer project folder.
+3. Move your project Sketch file into the `/src` folder.
 3. Navigate to your project from the command line (e.g. `$ cd projects/myProject.framer`).
 4. Run `npm install`.
 5. Run `gulp serve`
